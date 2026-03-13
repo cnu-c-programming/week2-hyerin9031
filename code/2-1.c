@@ -9,7 +9,7 @@ int main()
     printf("unsigned int : %u\n", sizeof(unsigned int));
     printf("long : %u\n", sizeof(long));
     printf("long long : %u\n", sizeof(long long));
-    printf("float : %u\n", sizeof(float));
+    printf("float : %u", sizeof(float));
     
     return 0;
 }
